@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class StackImplVariableSize {
     protected int[] stack;
-    private final int DEFAULT_SIZE=10;
+    private final int DEFAULT_SIZE=5;
     int top=-1;
 
     public StackImplVariableSize(){
