@@ -1,0 +1,57 @@
+DSA Roadmap=>
+
+* Beginner Level
+- Language Basics
+- Basic control statements and pattern programs
+- Strings and few concepts around strings=> https://www.geeksforgeeks.org/top-50-string-coding-problems-for-interviews/
+- Basic Data structures implementations=> ArrayList,LinkedList,stack, Queue, Hashmap/set, Heaps
+- Array Searching Algorithms with advance use cases => Linear search, Binary search, Ternary search
+- Repeatative array algorithms => Kadane's algo, DNF, Prefix sum, 2 pointers, sliding window, Transform and Conquer Approach, Slow fast pointer,
+                                  Divide and Conquer, Mono queue, Streams, randomised algorithm
+- Recursion and Backtracking patterns=> subset,subarray, permutation, recursive to iterative and vice-versa, DFS-BFS
+- Sorting Algo's
+- Questions based on these above topics.
+
+* Advance Level
+- Heap
+- Trees=> BST, AVL, Red Black
+- Graphs=> DFS, BFS, topological sort, dijkstra's algo,
+-
+
+
+
+
+# Problems=>
+
+* Number Theory
+- GCD=> Euclidean Algo.
+- MinMax
+- Fibonacci
+- Divisor Of Number
+- Reverse Number
+- Prime Number => 1.All in Range 2.Seive Of Erotosthenes 3. Euclid Lemma
+- Modular
+- Armstrong Number
+- Modular Exponential
+- Permuation and combination => 1.Fermat Little Theorem 2. Lucas Thm.
+- Chinese Remainder Thm
+- Binomial Coefficient
+-
+
+* Arrays=>
+- Rotate array by n place
+-
+
+* Strings
+- Implement Atoi=>
+-
+
+* HashMap/Set
+- Longest Consecutive Sequence
+-
+
+
+* LinkedList
+- Add two numbers
+- Reverse Linked List
+-
