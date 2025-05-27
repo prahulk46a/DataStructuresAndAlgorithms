@@ -8,6 +8,7 @@ public class Divisor {
                 return i;
             }
         }
+
         return -1;
     }
 }

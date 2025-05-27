@@ -39,7 +39,8 @@ DSA Roadmap=>
 -
 
 * Arrays=>
-- Rotate array by n place
+- Rotate array by n place=>
+    - Reverse first array 0 to n, and then n-arr.length and finally reverse entire array
 -
 
 * Strings
