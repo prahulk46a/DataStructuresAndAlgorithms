@@ -56,3 +56,15 @@ DSA Roadmap=>
 - Add two numbers
 - Reverse Linked List
 -
+
+
+* Sorting Algorithms
+- Bubble Sort=> i. On every pass one element get reached at its correct position
+                ii. Swap adjacent elements if arr[j] > arr[j-1]
+                iii. I over here act as counter rather than part of swapping.
+                iv. pseudo code=> for(i=0;i<n;i++){
+                                    for(j=1;j<n-i;j++){
+                                     swap  if arr(j-1)>arr(j);
+                                    }
+                                   }
+                V. More optimisation can be done if there is no swap occuring in entire traversal then array is sorted at any point of  time so no need of checking ahead.
