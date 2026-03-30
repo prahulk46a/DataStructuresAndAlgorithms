@@ -41,7 +41,17 @@ DSA Roadmap=>
 * Arrays=>
 - Rotate array by n place=>
     - Reverse first array 0 to n, and then n-arr.length and finally reverse entire array
--
+- Kadane's Algorithm
+- DNF
+- 2 pointers
+- Sliding Window
+- Prefix Sum
+- Transform and Conquer Approach
+- Slow fast pointer
+- Divide and Conquer
+- Mono queue
+- Streams
+
 
 * Strings
 - Implement Atoi=>
@@ -67,4 +77,4 @@ DSA Roadmap=>
                                      swap  if arr(j-1)>arr(j);
                                     }
                                    }
-                V. More optimisation can be done if there is no swap occuring in entire traversal then array is sorted at any point of  time so no need of checking ahead.
+                V. More optimisation can be done if there is no swap occurring in entire traversal then array is sorted at any point of  time so no need of checking ahead.
