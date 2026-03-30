@@ -19,10 +19,10 @@ public class HashMapExample {
         }
         System.out.println(map);
 
-        // EntrySet => It is similar to for each loop for objects in an array.
-        for(Map.Entry<String,Integer> entry:map.entrySet()){
-            System.out.println(entry.getKey()+" "+entry.getValue());
-        }
+//        // EntrySet => It is similar to for each loop for objects in an array.
+//        for(Map.Entry<String,Integer> entry:map.entrySet()){
+//            System.out.println(entry.getKey()+" "+entry.getValue());
+//        }
 
     }
 
