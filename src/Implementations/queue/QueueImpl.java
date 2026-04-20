@@ -49,6 +49,7 @@ public class QueueImpl {
         q.enqueue(30);
         q.printQueue();
         System.out.println("Dequeued: " + q.dequeue());
+        System.out.println("Peek Element is : " + q.peek());
         q.printQueue();
     }
 }
